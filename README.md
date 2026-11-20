@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 tar: information theory, general physics, c++ & py.
 
