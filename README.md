@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-tar: information theory, philosophy, math(bruh), general physics, c++ & py.
+tar: information theory, signal processing, philosophy, math(bruh), general physics, c++ & py.
 
 Yêu tổ quốc, yêu đồng bào
 
